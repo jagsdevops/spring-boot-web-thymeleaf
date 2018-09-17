@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 	<name>Spring Boot Web Thymeleaf Example</name>
 	<description>Spring Boot Web JSP Example</description>
-	<url>https://www.mkyong.com</url>
+	<url>https://example.com</url>
 	<version>1.0</version>
 
 	<parent>
